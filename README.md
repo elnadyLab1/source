@@ -7,11 +7,13 @@
 # Create new Project :
 laravel new sources
 
-# Add Bootstrap :
-composer require laravel/ui
-php artisan ui bootstrap --auth
-npm install
-npm run dev
-npm run dev
+## Add Bootstrap :
+### composer require laravel/ui
+### php artisan ui bootstrap --auth
+### npm install
+### npm run dev
+### npm run dev
+### php artisan key:generate
+### php artisan serve
 
 
