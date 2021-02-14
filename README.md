@@ -3,3 +3,15 @@
 # Laravel Source Project
 ## Shady El Nady
 ### Laravel Project
+
+# Create new Project :
+laravel new sources
+
+# Add Bootstrap :
+composer require laravel/ui
+php artisan ui bootstrap --auth
+npm install
+npm run dev
+npm run dev
+
+
