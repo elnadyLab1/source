@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('/loginn', function () {
     return view('auth.loginn');
 });
+Route::get('/doctor', function () {
+    return view('doctor.index');
+});
 
 Auth::routes();
 
